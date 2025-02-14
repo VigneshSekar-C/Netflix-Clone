@@ -21,11 +21,11 @@ useEffect(() => {
           {cards_data.map((card, index) => {
             return <div className="card" key={index}>
               <img src={card.image} alt="" />
-              {/* <p>{card.name}</p> */}
-            {/* </div>
+              <p>{card.name}</p> */
+            </div>
           })}
         </div>
-      </div> */}
+      </div>
     )
   }
 

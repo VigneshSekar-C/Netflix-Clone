@@ -21,10 +21,10 @@ const Home = () => {
             man living in modern Istanbul embarks on a quest to save the
             city from an immortal enemy.
           </p>
-          {/* <div className="hero-btns">
+          <div className="hero-btns">
             <button className='btn'><img src={play_icon} alt=""/>Play</button>
             <button className='btn dark-btn'><img src={info_icon} alt=""/>More Info</button>
-          </div> */}
+          </div>
           <TitleCards/>
         </div>
       </div>

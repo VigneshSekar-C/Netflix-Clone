@@ -15,9 +15,9 @@
 .player iframe{
     border-radius: 10px;
 }
-/* .player-info{
+.player-info{
     display: flex;
     align-items: center;
     justify-content: space-between;
     width: 90%;
-} */
+}

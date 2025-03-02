@@ -12,9 +12,9 @@
     width: 50px;
     cursor: pointer;
 }
-.player iframe{
+/* .player iframe{
     border-radius: 10px;
-}
+} */
 .player-info{
     display: flex;
     align-items: center;

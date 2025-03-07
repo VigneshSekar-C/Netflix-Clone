@@ -7,11 +7,11 @@ import Player from './pages/Player/Player'
 const App = () => {
   return (
     <div>
-      {/* <Routes>
+      <Routes>
         <Route path='/' element={<Home/>}/>
         <Route path='/login' element={<Login/>}/>
         <Route path='/player/:id' element={<Player/>}/>
-      </Routes> */}
+      </Routes>
     </div>
   )
 }

@@ -28,3 +28,14 @@
     text-decoration: none;
     color: white;
 }
+@media (max-width: 500px) {
+    .title-cards h2{
+        font-size: 15px;
+    }
+    .card-list img{
+        width: 165px;
+    }   
+    .card-list p{
+        font-size: 10px;
+    }
+}
